@@ -2,6 +2,7 @@ Hi there 👋
 I am Akash kumar 
 I am Currently Learnig...
 I am Looking To Collaborate on ......
+Ask about me 
 <!--
 **Akashsinghkumar/Akashsinghkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
