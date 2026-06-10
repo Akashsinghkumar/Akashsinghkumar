@@ -32,8 +32,7 @@ To begin my career as a **Software Developer**, applying my technical knowledge,
 
 ### 🔹 Technical Skills
 - Java
-- C Programming
-- OOPS
+- Python
 - DBMS
 - Data Structures & Algorithms
 - HTML
@@ -52,18 +51,18 @@ To begin my career as a **Software Developer**, applying my technical knowledge,
 
 ## 🚀 Projects
 
-- 🎓 **Learning Portal**
-  - Developed an educational platform for students
-  - Designed user-friendly interfaces and learning resources
+-  🔐 **CyberSecNexus (PC App)**
+  - Provides security-focused features to protect users from common cyber threats and unauthorized access.
+  - Promotes cybersecurity awareness through practical tools and secure system design.
 
-- 📚 **Library Management System**
-  - Developed a Java-based system for managing books and users
-  - Implemented OOPS concepts and database connectivity
-
-- 📝 **Notes Management App**
-  - Built a secure digital note management application
-  - Organized and managed notes efficiently
-
+- 📚 **Dual Layer Security System For Communication (Mobile App)**
+  - A secure communication system that uses dual-layer protection to ensure data privacy and authorized access.
+  - Enhances confidentiality and data protection by ensuring only authorized users can access transmitted information.
+    
+- 📝 **Bottel Brand Website**
+  - A responsive brand showcase website for displaying bottle products and enhancing customer experience.
+  - Designed an intuitive user interface to enhance customer engagement and improve brand visibility.
+    
 - 📚 **Book Store Management System**
   - Smart inventory and billing management system
   - Built using Java and database concepts
