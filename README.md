@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 **B.Tech in Computer Science & Engineering (2022–2026)**
-- 🚀 Aspiring **Software Developer** with strong fundamentals in **Java, OOPS, DBMS and DSA**
+- 🚀 Aspiring **Software Developer** with strong fundamentals in **HTML, CSS, JavaScript, ReactJs DBMS and DSA**
 - 🧠 Skilled in **problem solving, teamwork, leadership and communication**
 - 🛠 Hands-on experience building **Java and Web Development Projects**
 - 🌱 Currently exploring **Full Stack Development**
