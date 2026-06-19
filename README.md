@@ -1,132 +1,163 @@
-<h1 align="center">Hi 👋, I'm Akash Kumar </h1>
-<h3 align="center">💻 Aspiring Software Developer | MERN Stack Developer Enthusiast | Problem Solver 💻</h3>
+<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
+<h3 align="center">💻 Software Developer | MERN Stack Developer | AI & Cybersecurity Enthusiast 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=00CED1&center=true&vCenter=true&width=800&lines=Software+Developer+in+the+Making;Java+%7C+OOPS+%7C+DBMS+%7C+DSA;Building+Real-World+Projects;Turning+Ideas+into+Working+Applications!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00CED1&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(MERN);AI+%26+Cybersecurity+Enthusiast;Java+%7C+JavaScript+%7C+DBMS+%7C+DSA;Building+Real-World+Projects;Open+to+Software+Development+Opportunities" />
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Akashsinghkumar&color=00CED1)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akashsinghkumar&label=Profile%20Views&color=00CED1&style=for-the-badge" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **B.Tech in Computer Science & Engineering (2022–2026)**
-- 🚀 Aspiring **Software Developer** with strong fundamentals in **HTML, CSS, JavaScript, ReactJs, DBMS and DSA**
-- 🧠 Skilled in **problem solving, teamwork, leadership and communication**
-- 🛠 Hands-on experience building **Java and Web Development Projects**
-- 🌱 Currently exploring **Full Stack Development**
-- ⚡ Fun Fact: I enjoy transforming ideas into practical software solutions
+
+- 🎓 B.Tech in Computer Science & Engineering (2022–2026)
+- 💻 Passionate about Full Stack Development, AI and Cybersecurity
+- 🚀 Building real-world software solutions using modern technologies
+- 🌱 Currently learning Advanced MERN Stack & System Design
+- 🤝 Open to Internship and Full-Time Software Developer Opportunities
+- ⚡ Turning ideas into scalable applications
 
 ---
 
-## 🎯 Career Objective
-To begin my career as a **Software Developer**, applying my technical knowledge, project experience and problem-solving skills while continuously learning and contributing to impactful software solutions.
+## 🛠️ Tech Stack
 
----
-
-## 🛠️ Tech Stack & Skills
-
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,mysql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,mysql" />
 </p>
 
-### 🔹 Technical Skills
-- Java
-- Python
-- DBMS
-- Data Structures & Algorithms
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+### Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+</p>
 
-### 🔹 Soft Skills
-- Communication
-- Teamwork
-- Leadership
-- Problem Solving
-- Time Management
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
--  🔐 **CyberSecNexus (PC App)**
-    - Provides security-focused features to protect users from common cyber threats and unauthorized access.
-    - Promotes cybersecurity awareness through practical tools and secure system design.
+### 🔐 CyberSecNexus
+AI-powered cybersecurity platform featuring threat detection, anomaly analysis, security monitoring and awareness tools.
 
-- 📚 **Dual Layer Security System For Communication (Mobile App)**
-    - A secure communication system that uses dual-layer protection to ensure data privacy and authorized access.
-    - Enhances confidentiality and data protection by ensuring only authorized users can access transmitted information.
-    
-- 📝 **Bottel Brand Website**
-    - A responsive brand showcase website for displaying bottle products and enhancing customer experience.
-    - Designed an intuitive user interface to enhance customer engagement and improve brand visibility.
-    
-- 📚 **Book Store Management System**
-    - Smart inventory and billing management system
-    - Built using Java and database concepts
+**Tech:** JavaScript, Node.js, AI/ML, Security Analytics
 
-- 🌐 **Personal Portfolio Website**
-    - Designed and developed a responsive portfolio website
-    - Showcases projects, skills and achievements
+---
+
+### 🤖 CAIES Foundation AI Chatbot
+Developed an intelligent Question-Answering Bot using Retrieval-Augmented Generation (RAG), LangChain, Vector Database and Local LLM.
+
+**Tech:** Python, LangChain, RAG, Vector DB, LLM
+
+---
+
+### 🛡️ Intrusion Detection System (IDS)
+Machine Learning-based Intrusion Detection System to identify network attacks and suspicious activities.
+
+**Tech:** Python, Scikit-Learn, Machine Learning
+
+---
+
+### 💧 AQUAVIORA Bottle Brand Platform
+Developed a full-stack web application for a premium water bottle brand with order management, enquiry handling and Google Sheets integration.
+
+**Tech:** Node.js, Express.js, MongoDB, JavaScript
+
+---
+
+### 🌐 Personal Portfolio Website
+Responsive portfolio website showcasing projects, skills and achievements.
+
+**Tech:** HTML, CSS, JavaScript
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Full Stack Web Development Intern — *Future Interns*
-**Duration:** 1 Month
+### Full Stack Web Development Intern — Future Interns
 
-- Built a Personal Portfolio Website
-- Developed an E-Commerce Storefront
-- Worked on Website Rebranding using AI tools
-- Gained hands-on experience in real-world development workflows
+- Built Personal Portfolio Website
+- Developed E-Commerce Storefront
+- Website Rebranding using AI Tools
+- Worked on real-world development workflows
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏆 Certifications & Achievements
 
-- CAIES Foundation– Artificial Intelligence
-- AI Tools Certification
-- Ducat Certification
-- Participated in Technical Events and Hackathons
-- Tech Fest Organizing Committee Certificate
+- 🎖️ CAIES Foundation – Artificial Intelligence
+- 🎖️ AI Tools Certification
+- 🎖️ Ducat Training Certification
+- 🏅 Tech Fest Organizing Committee (Core Member)
+- 🏅 Participated in Technical Events & Hackathons
+
 ---
 
 ## 🎓 Education
 
-- 🎓 **Bachelor of Technology – Computer Science & Engineering**
-  *Usha Martin University, Ranchi (2022–2026)*
+### Bachelor of Technology (CSE)
+Usha Martin University, Ranchi (2022–2026)
 
-- 🏫 **Intermediate (BSEB)**
+### Intermediate (BSEB)
 
-- 🏫 **Matriculation**
+### Matriculation
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashsinghkumar&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashsinghkumar&theme=radical&hide_border=true" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashsinghkumar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashsinghkumar&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+### Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsinghkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akashsinghkumar&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashsinghkumar&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/akash-kumar-3baa04250" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/akash-kumar-3baa04250">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Akashsinghkumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <a href="https://github.com/Akashsinghkumar">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Quote
 
-I believe strong fundamentals + consistency = unstoppable growth 🚀
+> “Consistency, Learning, and Execution are the keys to becoming a great Software Engineer.”
