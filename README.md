@@ -87,13 +87,11 @@ To begin my career as a **Software Developer**, applying my technical knowledge,
 
 ## 🏅 Certifications & Achievements
 
-- Samsung Innovation Campus – Artificial Intelligence
-- DigiShakti AI Fundamentals
+- CAIES Foundation– Artificial Intelligence
 - AI Tools Certification
 - Ducat Certification
-- Business Innovative Ideas Certification
 - Participated in Technical Events and Hackathons
-
+- Tech Fest Organizing Committee Certificate
 ---
 
 ## 🎓 Education
