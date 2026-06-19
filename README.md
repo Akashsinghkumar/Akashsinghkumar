@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akash Kumar Singh</h1>
-<h3 align="center">💻 Aspiring Software Developer | Java & Full Stack Enthusiast | Problem Solver 💻</h3>
+<h1 align="center">Hi 👋, I'm Akash Kumar </h1>
+<h3 align="center">💻 Aspiring Software Developer | MERN Stack Developer Enthusiast | Problem Solver 💻</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=00CED1&center=true&vCenter=true&width=800&lines=Software+Developer+in+the+Making;Java+%7C+OOPS+%7C+DBMS+%7C+DSA;Building+Real-World+Projects;Turning+Ideas+into+Working+Applications!" alt="Typing SVG">
