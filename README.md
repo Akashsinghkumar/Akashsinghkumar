@@ -131,7 +131,7 @@ Usha Martin University, Ranchi (2022–2026)
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akashsinghkumar&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akashsinghkumar&theme=tokyonight&no-frame=true&row=1&column=6" alt="Akash's GitHub Trophies" />
 </p>
 
 ---
@@ -139,9 +139,8 @@ Usha Martin University, Ranchi (2022–2026)
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashsinghkumar&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashsinghkumar&theme=tokyo-night&hide_border=true&area=true" alt="Akash's Contribution Graph" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
